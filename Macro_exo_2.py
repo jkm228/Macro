@@ -32,4 +32,5 @@ plt.xlabel('Nombre de spectateurs')
 plt.ylabel('Nombre de matchs (Fréquence)')
 
 # 5. Affichage
+
 plt.show()
